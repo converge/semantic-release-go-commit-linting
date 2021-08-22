@@ -14,7 +14,7 @@ go build -o pre-commit
 # project-name/.git/hooks/
 ```
 
-# Use
+## Use
 
 ```bash
 git commit -m 'unknown-type: hello'
